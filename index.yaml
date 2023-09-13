@@ -3,6 +3,15 @@ entries:
   lychee:
   - apiVersion: v1
     appVersion: v4.11.0
+    created: "2023-09-13T13:49:31.372679036Z"
+    description: A great looking and easy-to-use photo-management-system.
+    digest: f8f2a61bd836265735a30e924605b3c61d3a3e16186b37024e62bccb9cc6fab6
+    name: lychee
+    urls:
+    - https://github.com/breuerfelix/lychee-helmchart/releases/download/lychee-0.1.3/lychee-0.1.3.tgz
+    version: 0.1.3
+  - apiVersion: v1
+    appVersion: v4.11.0
     created: "2023-08-24T18:06:23.98907613Z"
     description: A great looking and easy-to-use photo-management-system.
     digest: 194b688aed1904c2190504aebdeac76e9ceae0242fc1d1677a373acefcf94025
@@ -10,4 +19,4 @@ entries:
     urls:
     - https://github.com/breuerfelix/lychee-helmchart/releases/download/lychee-0.1.2/lychee-0.1.2.tgz
     version: 0.1.2
-generated: "2023-08-24T18:06:23.98908773Z"
+generated: "2023-09-13T13:49:31.372692336Z"
