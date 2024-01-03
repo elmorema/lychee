@@ -17,7 +17,7 @@ deployment:
   tag:
 
 uploads:
-  size: 1.5TB
+  size: 1500Gi
   storageClass: longhorn
 
 conf:
