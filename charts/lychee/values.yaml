@@ -1,5 +1,5 @@
 appName: lychee
-timezone: Europe/Berlin
+timezone: America/New York
 dbConnection: sqlite
 host: lychee.example.com
 
