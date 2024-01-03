@@ -8,6 +8,6 @@ entries:
     digest: dd52d6efcf5e012cd098a2da88d6c701aad5ba3fa955087d330f33b179e44de3
     name: lychee
     urls:
-    - https://github.com/elmorema/lychee/releases/download/lychee-release-1/lychee-release-1.tar.gz
+    - https://github.com/elmorema/lychee/releases/download/lychee-release-1.0/lychee-release-1.tar.gz
     version: 0.1.11
 generated: "2023-09-18T10:14:30.576031235Z"
