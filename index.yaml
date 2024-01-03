@@ -8,7 +8,7 @@ entries:
     digest: dd52d6efcf5e012cd098a2da88d6c701aad5ba3fa955087d330f33b179e44de3
     name: lychee
     urls:
-    - https://github.com/breuerfelix/lychee-helmchart/releases/download/lychee-0.1.11/lychee-0.1.11.tgz
+    - https://github.com/elmorema/lychee-helmchart/releases/download/lychee-0.1.11/lychee-0.1.11.tgz
     version: 0.1.11
   - apiVersion: v1
     appVersion: v4.11.1
@@ -17,7 +17,7 @@ entries:
     digest: 2b041ccee3ee4ede3254e128b19768dafc7669827fc00b285f646e7672a06f07
     name: lychee
     urls:
-    - https://github.com/breuerfelix/lychee-helmchart/releases/download/lychee-0.1.10/lychee-0.1.10.tgz
+    - https://github.com/elmorema/lychee-helmchart/releases/download/lychee-0.1.10/lychee-0.1.10.tgz
     version: 0.1.10
   - apiVersion: v1
     appVersion: v4.11.1
@@ -26,7 +26,7 @@ entries:
     digest: adb30d2529e295daa45fa192255121e9e5dd45838ed882280e7824e1994abbe0
     name: lychee
     urls:
-    - https://github.com/breuerfelix/lychee-helmchart/releases/download/lychee-0.1.9/lychee-0.1.9.tgz
+    - https://github.com/elmorema/lychee-helmchart/releases/download/lychee-0.1.9/lychee-0.1.9.tgz
     version: 0.1.9
   - apiVersion: v1
     appVersion: v4.11.1
@@ -35,7 +35,7 @@ entries:
     digest: 19cb6e3edd51862c27faeb5d6ed6b906219a2ddd4799b4a2d51314d571278384
     name: lychee
     urls:
-    - https://github.com/breuerfelix/lychee-helmchart/releases/download/lychee-0.1.8/lychee-0.1.8.tgz
+    - https://github.com/elmorema/lychee-helmchart/releases/download/lychee-0.1.8/lychee-0.1.8.tgz
     version: 0.1.8
   - apiVersion: v1
     appVersion: v4.11.1
@@ -44,7 +44,7 @@ entries:
     digest: f0b2d13f857dbd6772fa706bce4d65cd52ec78928fb87df4bb795867615f7591
     name: lychee
     urls:
-    - https://github.com/breuerfelix/lychee-helmchart/releases/download/lychee-0.1.7/lychee-0.1.7.tgz
+    - https://github.com/elmorema/lychee-helmchart/releases/download/lychee-0.1.7/lychee-0.1.7.tgz
     version: 0.1.7
   - apiVersion: v1
     appVersion: v4.11.1
@@ -53,7 +53,7 @@ entries:
     digest: fcaadb963994f193196673cc09464548ba2137775e4483b9de76a9ec9bd2b955
     name: lychee
     urls:
-    - https://github.com/breuerfelix/lychee-helmchart/releases/download/lychee-0.1.6/lychee-0.1.6.tgz
+    - https://github.com/elmorema/lychee-helmchart/releases/download/lychee-0.1.6/lychee-0.1.6.tgz
     version: 0.1.6
   - apiVersion: v1
     appVersion: v4.11.1
@@ -62,7 +62,7 @@ entries:
     digest: 19bc657c290cfc43d1541431c88acf71e560fdf679101f49186de725584e76b4
     name: lychee
     urls:
-    - https://github.com/breuerfelix/lychee-helmchart/releases/download/lychee-0.1.5/lychee-0.1.5.tgz
+    - https://github.com/elmorema/lychee-helmchart/releases/download/lychee-0.1.5/lychee-0.1.5.tgz
     version: 0.1.5
   - apiVersion: v1
     appVersion: v4.11.1
@@ -71,7 +71,7 @@ entries:
     digest: e24603bebbbf6b2d75186078005422894bb2dc80c050f01be69eb7009bb01265
     name: lychee
     urls:
-    - https://github.com/breuerfelix/lychee-helmchart/releases/download/lychee-0.1.4/lychee-0.1.4.tgz
+    - https://github.com/elmorema/lychee-helmchart/releases/download/lychee-0.1.4/lychee-0.1.4.tgz
     version: 0.1.4
   - apiVersion: v1
     appVersion: v4.11.0
@@ -80,7 +80,7 @@ entries:
     digest: f8f2a61bd836265735a30e924605b3c61d3a3e16186b37024e62bccb9cc6fab6
     name: lychee
     urls:
-    - https://github.com/breuerfelix/lychee-helmchart/releases/download/lychee-0.1.3/lychee-0.1.3.tgz
+    - https://github.com/elmorema/lychee-helmchart/releases/download/lychee-0.1.3/lychee-0.1.3.tgz
     version: 0.1.3
   - apiVersion: v1
     appVersion: v4.11.0
@@ -89,6 +89,6 @@ entries:
     digest: 194b688aed1904c2190504aebdeac76e9ceae0242fc1d1677a373acefcf94025
     name: lychee
     urls:
-    - https://github.com/breuerfelix/lychee-helmchart/releases/download/lychee-0.1.2/lychee-0.1.2.tgz
+    - https://github.com/elmorema/lychee-helmchart/releases/download/lychee-0.1.2/lychee-0.1.2.tgz
     version: 0.1.2
 generated: "2023-09-18T10:14:30.576031235Z"
